@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1589366620 source:d:\c & c++ codes\c++\rock_paper_scissors\main.cpp
-	<iostream>
-	<stdlib.h>
-	<conio.h>
-
